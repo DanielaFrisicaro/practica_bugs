@@ -1,2 +1,2 @@
-# practica_bugs
+QA Manual Testing-
 Práctica de Bugs
